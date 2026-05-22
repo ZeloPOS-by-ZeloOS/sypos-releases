@@ -1,21 +1,23 @@
 {
   "schemaVersion": 2,
-  "latest": "1.0.3",
-  "minSupported": "1.0.0",
+  "latest": "1.0.5",
+  "minSupported": "1.0.5",
   "killSwitch": false,
   "updatePolicy": "optional",
-  "rollout": { "percentage": 100 },
+  "rollout": {
+    "percentage": 100
+  },
   "message": {
     "title": "Update Available",
-    "body": "A newer version of Sypos is available."
+    "body": "A newer version of SyPOS is available."
   },
   "platforms": {
     "win-x64": {
       "artifact": {
         "type": "nsis",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-build-144/Sypos-Setup-1.0.3.exe",
-        "size": 119835990,
-        "sha256": "bf31f336648fa9cf103e255417257b5499a126f91816ddf36ec9f4afc119e3da"
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-dev-v1.0.5/Sypos-Dev-Setup-1.0.5.exe",
+        "size": 124043967,
+        "sha256": "ab48e67c19ec3962ef0865ba4f4a556331bebe70ae8107f6601ddfb64e03e389"
       }
     }
   }
