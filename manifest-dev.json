@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "latest": "1.0.5",
+  "latest": "1.0.9",
   "minSupported": "1.0.0",
   "killSwitch": false,
   "updatePolicy": "optional",
@@ -15,9 +15,9 @@
     "win-x64": {
       "artifact": {
         "type": "nsis",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-dev-v1.0.5/Sypos-Dev-Setup-1.0.5.exe",
-        "size": 124335544,
-        "sha256": "9fc89f803f66104bfeaf4aeccf98bf264d6c226624eb4d8d9f59d84553a14014"
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-dev-v1.0.9-build-179/ZeloPOS-Dev-Setup-1.0.9.exe",
+        "size": 121754727,
+        "sha256": "5bc035747824edcd56646b22be9e5f028a179076ff5022208956b9327c033164"
       }
     }
   }
