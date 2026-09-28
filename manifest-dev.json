@@ -15,9 +15,9 @@
     "win-x64": {
       "artifact": {
         "type": "nsis",
-        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-dev-v2.0.0-build-180/ZeloOS-Dev-Setup-2.0.0.exe",
-        "size": 121921753,
-        "sha256": "af2d8dab60534a1cf3703bffdfc64053d0cea8d0345c98f93b4c21ebad2367d2"
+        "url": "https://github.com/SyPOS-by-Sourcepeak/sypos-releases/releases/download/sypos-dev-v2.0.0-build-181/ZeloOS-Dev-Setup-2.0.0.exe",
+        "size": 121963302,
+        "sha256": "c311819071f1f0c825df591299b9a4b5ede8be611438bc2dcf1e01163f46fd2f"
       }
     }
   }
